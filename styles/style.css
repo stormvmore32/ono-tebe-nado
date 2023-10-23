@@ -27,7 +27,7 @@ body {
     font-family: Raleway;
     font-size: 18px;
     font-style: normal;
-    font-weight: 400;  
+    font-weight: 400;
 }
 
 .header-menu-link {
@@ -200,19 +200,19 @@ body {
 .card-type-films {
     background-image: url(../images/card-lot-01.jpg);
     background-size: cover;
-    background-position: center; 
+    background-position: center;
 }
 
 .card-type-books {
     background-image: url(../images/card-lot-02.jpg);
     background-size: cover;
-    background-position: center; 
+    background-position: center;
 }
 
 .card-type-pictures {
     background-image: url(../images/card-lot-03.jpg);
     background-size: cover;
-    background-position: center; 
+    background-position: center;
 }
 
 .card-title {
@@ -246,7 +246,7 @@ body {
     font-style: normal;
     font-weight: 400;
     text-underline-offset: 4px;
-    padding-left: 40px;   
+    padding-left: 40px;
 }
 
 .about {
